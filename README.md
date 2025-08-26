@@ -35,12 +35,6 @@
 
 ---
 
-## 📌 Proyectos destacados
-- [**App Web de Gestión**](#) – Aplicación full stack para administrar tareas y usuarios.
-- [**Sistema de Gestión en Java**](#) – Aplicación de escritorio desarrollada en Java para control de inventarios.
-- [**Algoritmos y Estructuras de Datos**](#) – Implementaciones en Java y C++ para resolver problemas clásicos.
-
----
 
 ## 📫 Cómo contactarme
 <p align="center">
